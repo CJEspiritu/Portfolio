@@ -1,0 +1,48 @@
+body{
+background-image:url("coding.jpg");
+height:100vh;
+background-size:cover;
+
+
+}
+h1{
+font-size:350%;
+color:white;
+text-align:center;
+margin-top:70px;
+text-shadow:5px 3px 3px yellow;
+}
+
+
+.wrapper{
+width:400px;
+padding:30px;
+margin:0 auto;
+border:white;
+margin-left:33%;
+}
+
+.wrapper a{
+text-decoration:none;
+color:yellow;
+margin-top:70px;
+}
+
+.wrapper input[type=text],
+.wrapper input[type=Email],
+.wrapper input[type=Tel no.],
+.wrapper input[type=Subject],
+textarea{
+ width:100%
+}
+
+a{
+text-align:center;
+color:white;
+margin-left:54%;
+text-decoration:none;
+padding:10px;
+border:3px solid white;
+border-radius:20px;
+
+}
