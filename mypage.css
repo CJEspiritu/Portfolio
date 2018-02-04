@@ -20,7 +20,7 @@ color:black;
 
 .about{
 text-align:center;
-font-family: 'Permanent Marker', cursive;
+font-family: 'Merriweather', serif;
 font-size:450%;
 color:white;
 width:100%;
@@ -37,7 +37,7 @@ margin:0 auto;
 color:white;
 text-align:center;
 font-size:150%;
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 }
 
 .about2{
@@ -45,18 +45,18 @@ color:white;
 text-align:center;
 font-size:120%;
 padding:30px;
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 }
 
 .three{
 text-align:center;
 color:#485283;
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 }
 
 span{
 background-color:#EEF0FB8;
-font-family: 'Permanent Marker', cursive;
+font-family: 'Merriweather', serif;
 font-size:400%;
 color:#C8DF57;
 text-shadow:7px 7px 7px grey;
@@ -70,6 +70,7 @@ font-size:120%;
 
 .style {
     margin-left:45%;
+    margin-top:50px;
     width: 150px;
     height: 150px;
 transition: width 2s, height 2s, transform 2s;
@@ -86,7 +87,7 @@ transition: width 2s, height 2s, transform 2s;
 text-align:center;
 font-size:150%;
 bottom:150%;
-font-family: 'Permanent Marker', cursive;
+font-family: 'Merriweather', serif;
 color:#485283;
 text-shadow:5px 5px 5px #C8DF57;
  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -95,29 +96,29 @@ text-shadow:5px 5px 5px #C8DF57;
 .ideas{
 text-align:center;
 font-size:400%;
-font-family: 'Courgette', cursive;
-margin-top:100px;
+font-family: 'Merriweather', serif;
+margin-top:70px;
 margin-bottom:0px;
 }
 
 .and{
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 font-size:150%;
 }
 
 .create{
 text-align:center;
 font-size:130%;
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 }
 
 .front{
 font-size:250%;
 color:white;
-font-family: 'Permanent Marker', cursive;
+font-family: 'Merriweather', serif;
 background-color:black;
 width:100%;
-margin-top:50px;
+margin-top:100px;
 text-align:center;
 }
 
@@ -152,30 +153,31 @@ opacity:0.80;
 }
 
 .pp2{
-font-size:130%;
-text-align:center;
+font-size:120%;
+text-align:justify;
 margin-left:20%;
-font-family: 'Indie Flower', cursive;
+font-family: 'Merriweather', serif;
 }
 
 .contribute{
 text-align:center;
-font-size:200%;
-font-family: 'Courgette', cursive;
-margin-top:50px;
-margin-bottom:0px;
+font-size:250%;
+font-family: 'Merriweather', serif;
+margin-top:90px;
+margin-bottom:40px;
 margin-left:20%;
 }
 .passion{
-font-family: 'Indie Flower', cursive;
-font-size:90%;
-text-align:center;
+font-family: 'Merriweather', serif;
+font-size:80%;
+text-align:justify;
 margin-left:20%;
+margin-bottom:70px;
 }
 
 .work{
 text-align:center;
-background-color:#485283;
+background-color:#ADD8E6;
 width:95%;
 margin-left:7%;
 padding:50px;
@@ -184,15 +186,19 @@ border-radius:30px;
 }
 
 .work2{
-font-family: 'Permanent Marker', cursive;
+font-family: 'Merriweather', serif;
+font-size:160%;
 }
 
 .together{
-font-family: 'Indie Flower', cursive;
-font-size:130%;
+font-family: 'Merriweather', serif;
+font-size:80%;
+text-align:justify;
+margin-bottom:50px;
 }
 
 a{
+font-size:70%;
 text-decoration:none;
 font-family:verdana;
 letter-spacing:7px;
